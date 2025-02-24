@@ -5,8 +5,8 @@ import java.util.List;
 /**
  * Objeto cuenta bancaria.
  * En esta clase estaran los metodos donde se ingresa, retira y consulta el saldo actual
- * @author Nicoleta
- * @version 1.0
+ * @author Nicoleta Grigoras
+ * @version 1.1
  * @since 2025
  */
 public class CuentaBancaria {
